@@ -1,0 +1,32 @@
+[
+    {
+        "ciudad": "Lima",
+        "pais": "Perú",
+        "minima": 22.0,
+        "media": 25.0
+    },
+    {
+        "ciudad": "Madrid",
+        "pais": "España",
+        "minima": 15.0,
+        "media": 24.0
+    },
+    {
+        "ciudad": "París",
+        "pais": "Francia",
+        "minima": 10.0,
+        "media": 15.0
+    },
+    {
+        "ciudad": "Tokio",
+        "pais": "Japón",
+        "minima": 24.0,
+        "media": 25.0
+    },
+    {
+        "ciudad": "Amsterdam",
+        "pais": "Paises Bajos",
+        "minima": 6.0,
+        "media": 14.0
+    }
+]
